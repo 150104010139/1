@@ -1,0 +1,154 @@
+ÈÕÔÂ ¹â»ª   - -   Internet ¾«»ªÇø ÎÄÕÂ ÔÄ¶Á 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   ·¢ÐÅÈË :   Perseus   ( jd Ñæ²Ó ¡¤ Ïè ·ÇÑï ) ,   ÐÅ Çø :   Internet 
+ ±ê     Ìâ :   JAVA   ÇÃµô ÁË ¼¸¿é ·À»ðÇ½ µÄ ×© ? 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Sun   Jun   27   16 : 20 : 10   1999 )   ,   ×ªÐÅ 
+ 
+                             JAVA   ÇÃµô ÁË ¼¸¿é ·À»ðÇ½ µÄ ×© ? 
+ 
+                                             Íõ²¨ / Òë 
+ 
+ 1996 Äê £¬ ÆÕÁÖË¹¶Ù´óÑ§ ÈýÎ» ÑÐ¾¿ ÈËÔ± ¹«²¼ ÁË Ò»¸ö Java ³ÌÊ½ £¬ ³É¹¦ µØ±Ü¹ý 
+ ÍøÂç ·À»ðÇ½ £¨ Firewall £© ¡£ ½øÈë ÕýÌâ Ö®Ç° £¬ ÈÃ ÎÒÃÇ ÏÈ ½éÉÜ Ò»ÖÖ ÍøÂç µÄ »ù 
+ ±¾ ¸ÅÄî DNS Óë ·À»ðÇ½ ¡£ 
+ 
+ DNS   ÊÇ ¡° ÓòÃû ·þÎñÆ÷ ¡± £¨ Domain   Name   Service £© µÄ ËõÐ´ £¬ Í¨¹ý ÕâÏî ·þ 
+ Îñ £¬ ¿ÉÒÔ ÖªµÀ ÍøÂç ÉÏ Ã¿ Ò»²¿ »úÆ÷ ¶ÔÓ¦ µÄ ÍøÂçµØÖ· ¡£ ¿ÉÒÔ °Ñ   Internet   ÉÏ 
+ µÄ Ã¿Ì¨ »úÆ÷ ¿´³É ÏÖÊµÉú»î ÖÐ µÄ °ì¹«ÊÒ £¬ Ã¿¸ö °ì¹«ÊÒ ÍâÃæ ¶¼ ¹Ò ÓÐ ÕÐÅÆ £¬ ¶ø 
+ ´Ó ÕÐÅÆ ÉÏ µÄ Ãû³Æ ¿ÉÒÔ ´óÖÂ ¿´³ö °ì¹«ÊÒ µÄ ÔË×÷ ÌØÐÔ ¡£ ÀýÈç ¡¡ www . ibm . com   
+ Õâ¸ö »úÆ÷ Ãû³Æ ´ú±í ¹ú¼Ê Í¨ÓÃ »úÆ÷ ÓÐÏÞ¹«Ë¾ µÄ WWW °ì¹«ÊÒ £¬ ftp . netscape . 
+ com   ´ú±í ÁË Netscape µÄ FTP   °ì¹«ÊÒ £¬ ÓÃ ä¯ÀÀÆ÷ Á¬ÉÏ www . ibm . com Ê± £¬ ºÃ±È 
+ Ïò IBM µÄ WWW °ì¹«ÊÒ Òª Òª ×ÊÁÏ ¡£ 
+ 
+ ´Ó Õâ¸ö ±ÈÓ÷ ³ö·¢ £¬ ¾ÖÓòÍøÂç £¨ Local   Area   Network £© ¾Í Èç Ò»¶° °ì¹«´óÂ¥ £¬ 
+ ´óÂ¥ Àï ¸÷Ê½¸÷Ñù µÄ °ì¹«ÊÒ ¸÷×Ô ´ú±í ÁË ÍøÂç ÉÏ µÄ Ò»²¿ »úÆ÷ ¡£ °ì¹«ÊÒ Ö®ËùÒÔ 
+ ¾ß±¸ Ãû³Æ £¬ Ö÷Òª ÊÇ ±ãÓÚ ÈËÃÇ ¼ÇÒä ¡£ ¶Ô Êµ¼Ê µÄ ÍøÂçÍ¨ÐÅ À´Ëµ £¬ ²ÉÓÃ ´¿ Êý×Ö 
+ ¹¹³É µÄ ÍøÂç IPµØÖ· £¬ ±ÈÈç £¬ www . ibm . com µÄ IP ÊÇ 166.323 . 211.2 £¬ ftp . 
+ netscape . com °ì¹«ÊÒ µÄ ÍøÂçµØÖ· ÊÇ 205.218 . 156.36 ¡£ Á½¸ö °ì¹«ÊÒ Ö®¼ä ´« 
+ ËÍ µç×ÓÓÊ¼þÊ± £¬ Êµ¼Ê ÔË×÷ µÄ Í¨ÐÅ ÍùÀ´ ¶¼ ÊÇ Í¨¹ý ÍøÂçµØÖ· ´ï³É µÄ £¬ Ò² ¾ÍÊÇ 
+ Ëµ £¬ ÎÞÐÎ µÄ µç×ÓÓÊ¼þ Í¨µÀ ¿´µ½ ÐÅ·â ÉÏ Ð´ ×Å www . ibm . com µÄ ÊÕ¼þ ´¦Ê± £¬ ±ØÐë 
+ Ïò   DNS   Ñ¯ÎÊ ¶ÔÓ¦ µÄ IPµØÖ· £¬ ²ÅÄÜ Ë³Àû ÊÕ·¢ ÐÅ¼þ ¡£ ²»¹ý £¬ ÔÚ   DNS   µÄ ÊÀ½ç Àï £¬ 
+ °ì¹«ÊÒ Óë ÕÐÅÆ Ãû³Æ ²¢ ²» ±£Ö¤ ÊÇ Ò»¶ÔÒ» µÄ ¹ØÏµ £¬ Õâ¾ÍÊÇËµ £¬ Í¬Ò»¸ö »úÆ÷ Ãû³Æ 
+ ¿ÉÄÜ ¶ÔÓ¦ ÁË Êý¸ö   IP   µØÖ· £¬ ¶ø Í¬Ò»¸ö   IP   µØÖ· Ò² ¿ÉÄÜ ¶ÔÓ¦ µ½ ²»Í¬ µÄ »úÆ÷ £¬ 
+ µ±³õ ²ÉÓÃ ÕâÖÖ Éè¼Æ µÄ Ò»¸ö ÀíÓÉ ÊÇ £¬ ·½±ã ÏµÍ³¹ÜÀíÔ± ÒÔ ¸ü ÓÐ µ¯ÐÔ µÄ ·½Ê½ µ÷Õû 
+ ²»Í¬ »úÆ÷ µÄ ÍøÂç ¸ººÉ ¡£   ÀýÈç ¡¡ www . yahoo . com   Õâ¸ö °ì¹«ÊÒ ÃÅ¿Ú Ã¿Ìì ³öÏÖ 
+ µÄ ÈË´Î ¿ÉÄÜ ÊýÒÔÍò¼Æ £¬ ÏµÍ³¹ÜÀíÔ± ÀûÓÃ Í¬Ò»¸ö »úÆ÷ Ãû³Æ ¶ÔÓ¦ µ½ ²»Í¬ µÄ   IP 
+   µØÖ· £¬ ÈÃ ÊýÌ¨ »úÆ÷ ¶¼ ¹Ò ×Å Í¬Ñù µÄ »úÆ÷ Ãû³Æ £¬ Íâ½ç ¶Ô Í¬Ò»¸ö Ãû³Æ Á¬Ïß £¬ ÓÉ 
+ ²»Í¬ µÄ »úÆ÷ ·ÖÍ· ´¦Àí £¬ ±ã ÄÜ¹» ÓÐÐ§ µÄ ·ÖÉ¢   WWW   ÍøÂç ×÷Òµ µÄ ÅÓ´ó ¸ººÉ £¬ ÈÃ 
+ ´¦Àí Í¬Ñù ÊÂÎñ µÄ °ì¹«ÊÒ ¹Ò ×Å Í¬Ñù µÄ ÕÐÅÆ £¬ ¶Ô Ç°À´ Ç¢ÉÌ µÄ ¿Í»§ ²»½ö Çå³þ Ã÷ ÁË £¬ 
+ Êµ¼ÊÉÏ Ò² ÄÜ ÓÐÐ§ µØ »º½â Õû¸ö ÍøÂç µÄ ¾Þ´ó Ñ¹Á¦ ¡£ DNS   ÕâÖÖ ¡° °ì¹«ÊÒ ¡± Óë ¡° ÕÐ 
+ ÅÆ ¡± ÎÞÐë µ¥Ò» ¶ÔÓ¦ µÄ Éè¼Æ ¹ÌÈ» ·½±ã £¬ µ« È´ Òý·¢ ÁË ÍøÂçÍ¨ÐÅ µÄ Áí Ò»Ïî Î£»ú   
+ - -   DNS   Spoofing ¡£ Spoof   Ô­ÎÄ ÓÐ ¡° ÓÄÄ¬ ¶ø ²» ÕæÊµ Ö® ÃèÊö ¡± µÄ ÒâË¼ £¬ ÔÚ ´Ë 
+ ÔÝÒë Îª ¡° Î±Ôì ¡± £¬ DNS   Spoofing   »ù±¾ÉÏ ¾ÍÊÇ Ò»ÖÖ Î±Ôì   DNS   ½á¹û µÄ ¼¼ÇÉ £¬ 
+ µç×ÓÓÊ¼þ Í¨µÀ Ïò ÕâÖÖ Î±Ôì ¹ý µÄ   DNS   ²éºÅÌ¨ ²éºÅ £¬ ¾Í »á µÃµ½ ²» ÕýÈ· µÄ   IP   
+ µØÖ· ¡£ DNS   Spoofing   µÄ ÐÎ³É ÊÇ ÓÉÓÚ Internet ×ÔÉí µÄ Èõµã £¬ ÀûÓÃ ÕâÖÖ ¼¼ÇÉ 
+ ÈëÇÖ ÍøÂç µÄ ÊÂ¼þ ÔçÓÐ ÏÈÀý ¡£ 
+ 
+ Õâ´Î ÆÕÁÖË¹¶Ù´óÑ§ ÑÐ¾¿ ÈËÔ± ¹«²¼ µÄ ÑÐ¾¿ ½á¹û £¬ µ¹ ÊÇ ³ä·ÖÀûÓÃ ÁË Î±Ôì   DNS 
+ µÄ ÌØÊâ ¼¼ÇÉ £¬ ÈÃ   Java   Í¨¹ý ·À»ðÇ½ ºó £¬ ÄÜ¹» ¶Ô ÆäËû »úÆ÷ ÈÎÒâ ½øÐÐ Á¬½Ó £¬ 
+ ÍêÈ« ²» ÊÜ ·À»ðÇ½ µÄ Ô¼Êø ¡£ ·À»ðÇ½ £¨ Firewall £© ÊÇ °ì¹«´óÂ¥ µÄ ¾¯ÎÀ ¡£ Èç¹û 
+ °ì¹«´óÂ¥ Àï µÄ Ã¿¸ö °ì¹«ÊÒ ´ú±í ¾ÖÓòÍøÂç ÖÐ µÄ Ò»²¿ µçÄÔ £¬ ÄÇ ·À»ðÇ½ ¾ÍÊÇ Õû 
+ ¶° °ì¹«´óÂ¥ µÄ ¾¯ÎÀ £¬ ´óÂ¥ ¾¯ÎÀ µÄ ÈÎÎñ ÊÇ ¼à¿Ø ËùÓÐ ½ø³ö µÄ ÍøÂç ×ÊÁÏ Óë Í¨ÐÅ 
+ ÒªÇó £¬ ³ä·Ö Î¬»¤ ´óÂ¥ ÄÚ²¿ µÄ °²È« ¡£ ÀýÈç £º ¸ô±Ú ´óÂ¥ Ä³ °ì¹«ÊÒ ÅÉ ÈË À­ Ò»Ìõ 
+ Telnet   »ò   FTP   ¹ÜÏß µ½ ´óÂ¥ ÃÅ¿Ú £¬ ÒªÇó Óë Â¥ÉÏ ÁíÍâ Ò»¸ö °ì¹«ÊÒ ½øÐÐ Á¬Ïß 
+ »ò ´«Êä µµ°¸ Ê± £¬ ´óÂ¥ ¾¯ÎÀ ¿ÉÒÔ ºË¶Ô À­Ïß ¹¤ÈË ÉíÉÏ µÄ ÃûÅÆ £¬ ¿´¿´ Ëû µÄ   IP   
+ µØÖ· ÊÇ²»ÊÇ ÔÚ °²È« ·¶Î§ Ö®ÄÚ ¡£ ÒÔ ¾ö¶¨ ÊÇ·ñ ·ÅÐÐ ¡£ Èç¹û Ò»¸ö ¾ÖÓòÍøÂç ¹æ¶¨ 
+ Ö»ÓÐ Ä³Ð©   IP   µØÖ· ÄÜ¹» Óë ÍøÂç ÄÚ²¿ µÄ »úÆ÷ Á¬Ïß £¬ ¾Í ÄÜ ÓÐÐ§ µØ °Ñ ²»Ã÷ À´Ô´ 
+ µÄ ÒªÇó ×è¸ô ÔÚÍâ £¬ ÈÃ ´óÂ¥ ¾¯ÎÀ ÏÈ ¹ýÂË ½ø³ö µÄ ¸÷ÖÖ Éí·Ý £¬ ¸Ï×ß Ò»Ð© ¿ÉÒÉ µÄ 
+ ²»Ã÷ ÈËÊ¿ ¡£ 
+ 
+ Í¨³£ £¬ ·À»ðÇ½ ³ÌÐò ¾ÍÊÇ ÒÔ ÕâÑù µÄ ·½Ê½ £¬ Çø·Ö ¹«Ë¾ ÄÚ²¿ ÍøÂç Óë Íâ²¿ ÍøÂç £¬ 
+ ¾¡¿ÉÄÜ ½« ²»±ØÒª µÄ Íâ²¿ ÇëÇó ÇÐ¶Ï £¬ ±ÜÃâ ÄÚ²¿ ÍøÂç ÊÜµ½ ÎÞÎ½ µÄ ¸ÉÈÅ »ò ¹¥»÷ ¡£ 
+ 
+ ·À»ðÇ½ µÄ ¹ÛÄî Óë ×÷·¨ ¶Ô ±£»¤ ÍøÂç À´Ëµ £¬ ·¢»Ó ÁË Ïàµ± ÏÔÖø µÄ Ð§¹û £¬ Ò² ±» ¸÷ 
+ ½ç ¹ã·º ²ÉÓÃ ¡£ ÎÊÌâ ³ö ÔÚ Ò»µ© ¾¯ÎÀ ÈÏÎª À´·Ã ÈËÊ¿ Éí·Ý ÕýÈ· £¬ ËùÊô Ö®   IP   µØ 
+ Ö· ´ú±í ¿É ÐÅÈÎ µÄ »úÆ÷ £¬ ºóÃæ µÄ Ï¸½Ú ¾Í ²» ÔÚ ¾¯ÎÀ µÄ ¹ÜÏ½ ·¶Î§ Ö®ÄÚ ÁË £¬ ÒÔ   
+ Telnet   À´Ëµ £¬ ÍâÃæ µÄ »úÆ÷ ¾­¹ý ´óÂ¥ ¾¯ÎÀ µÄ Ðí¿É Óë ÄÚ²¿ µÄ »úÆ÷ ½øÐÐ ÁªÏµ Ö® 
+ ºó £¬ Ë«·½ Ïà»¥ ´«Êä µÄ Êý¾Ý £¬ ·À»ðÇ½ ÊÇ ²»ÄÜ ¿ØÖÆ µÄ ¡£ ËùÒÔ £¬ ·À»ðÇ½ ¿ÉÒÔ ¶Å 
+ ¾ø²» Ã÷ Éí·Ý µÄ Á¬½Ó ÇëÇó £¬ È´ ²»ÄÜ ·ÀÖ¹ Ê¹ÓÃ Í¨¹ý Õýµ± µÄ   Telnet Á¬Ïß ½øÐÐ 
+ ²» Õýµ± ÏµÍ³ ²Ù×÷ ¡£ ¡¡ ¡¡ ¡¡   
+ 
+ ÓÃ   Java   Ð´³É µÄ   Applet   ·ÅÔÚ ÍøÂç ÉÏ £¬ Ê¹ÓÃÕß Á¬ ÉÏ   Homepage ºó ¾Í µÈÓÚ 
+ ½« ÆäÖÐ µÄ Applet ³ÌÐò ÏÂÔØ µ½ ×Ô¼º µÄ µçÄÔ ÉÏ Ö´ÐÐ ¡£ Java   ÓïÑÔ ÔÚ Éè¼Æ Ö®³õ 
+ ±ã ÓÐ×Å Ðí¶à °²È« ·½Ãæ µÄ ¿¼ÂÇ £¬ Applet ±» ÏÂÔØ µ½ ÓÃ»§ ¶ËµÄ µçÄÔ ÉÏ Ö´ÐÐ Ê± £¬ 
+ ¸ºÔð Ö´ÐÐ µÄ Ö±ÒëÆ÷ £¨ Interpreter £© Ò² ÄÜ Ò»Ò» ¼ì²é Ã¿¸ö Ö¸Áî ¶ÔÏµÍ³ À´Ëµ 
+ ÊÇ·ñ °²È« ¡£ ²»¹ý ¶Ô   DNS   Spoofing   µÄ Ð§¹û À´Ëµ £¬ Java   Ð¡×é È´ ÒâÍâ µØ Ã» 
+ ÓÐ ±Ü¿ª ÕâÏî ÍøÂç Â©¶´ £¬ ÈÃ ÈË ÓÐ»ú ¿É ³Ã ÁË ¡£   
+ 
+ ¡¡ ÆÕÁÖË¹¶Ù´óÑ§ ÊµÑé µÄ ±¨¸æ ¿É ¹éÄÉÈçÏÂ £º 
+ ¡¡ ¡¡   
+ ¡¾ ÊµÑé ±³¾° ¡¿ 
+ ÊÜº¦ »úÆ÷ µÄ Ãû³Æ ÊÇ   target . victim . org ¡¡ IP   µØÖ·   10.10 . 10.2 
+ ÎÞ¹¼ »úÆ÷ µÄ Ãû³Æ ÊÇ   stooge . victim . org ¡¡ IP   µØÖ·   10.10 . 10.1 
+ ¹¥»÷Õß µÄ »úÆ÷ Ãû³Æ   www . attacker . org ¡¡   IP   µØÖ·   172.16 . 16.16 ¡¡ 
+ 
+ IP   ·¶Î§ ÔÚ   10.10 . 10.1   µ½   10.10 . 10.255   Ö®ÄÚ µÄ »úÆ÷ ¶¼ ÊÜµ½ ·À»ðÇ½ µÄ 
+ ±£»¤ £¬ ¾Ü¾ø½ÓÊÜ Íâ½ç µÄ ÈÎºÎ Á¬½Ó ÇëÇó £¬ Õý³£ Çé¿ö ÏÂ ¹¥»÷Õß ÎÞ·¨ ¶Ô ·À»ðÇ½ 
+ ÄÚ²¿ µÄ »úÆ÷ ÒªÇó Ö±½Ó Á¬Ïß ¡£ ¡¡ ¡¡ ¡¡ ¡¡   
+ 
+ ¡¾ ×¼±¸ »î¶¯ ¡¿ 
+ ¹¥»÷Õß ½¨Á¢ Ò»²¿ ¼Ù »úÆ÷ ÃûÎª   bogus . attacker . org ¡¡ ²¢ÇÒ ÈÃ   DNS   °Ñ Õâ²¿ 
+ »úÆ÷ Í¬Ê± ¶ÔÓ¦ µ½   10.10 . 10.2   Óë   172.16 . 16.16   Á½¸ö µØÖ· 
+ 
+ ¡¾ Æô¶¯ ¹¥»÷ ¡¿ 
+ ÎÞ¹¼ µÄ ÓÃ»§ ÔÚ   stooge . victim . org   »úÆ÷ ÉÏ Í¨¹ý ä¯ÀÀÆ÷ Á¬µ½ www . attacker . 
+ org   Ê± £¬ ¹¥»÷Õß ÊÂÏÈ Ð´ ºÃ ·ÅÔÚ   Homepage   ÉÏ µÄ   Applet   ³ÌÊ½ ±ã ½øÈë ÓÃ»§ 
+ ¶Ë ¿ªÊ¼ Ö´ÐÐ £¬ Õâ¸ö Applet   Ò»±ß Ö´ÐÐ ¿´À´ ÎÞº¦ µÄ ÆÕÍ¨ ³ÌÐò £¬ Ò»±ß È´ ÇÄÇÄµØ 
+ ×¼±¸ ¹¥»÷ ÆäËû »úÆ÷ ¡£ Ê×ÏÈ Õâ¸ö ³ÌÐò °µµØÀï ÒªÇó Óë   bogus . attacker . org   
+ »úÆ÷ ½¨Á¢ÁªÏµ £¬   ÓÉÓÚ   DNS   Spoofing   µÄ ¹ØÏµ £¬ ³ÌÐò »á µÃµ½   10.10 . 10.2 
+   Óë   172.16 . 16.16   Á½×é   IP   µØÖ· £¬ ´ËÊ± Java   ÏµÍ³ »á °Ñ   Applet   ³ÌÐò µÄ 
+ Ô­Ê¼ µØÖ· £¨ 172.16 . 16.16 £© Óë   DNS   µÄ ½á¹û ½øÐÐ ±È½Ï £¬ ·¢ÏÖ   172.16 . 16.16 
+ ÔÚ DNS   ²éºÅÌ¨ µÄ ²é ºÅ ½á¹û Ö®ÄÚ £¬ ±ã ÔÊÐí ÏÂ Ò»²½ µÄ Á¬½Ó ¶¯×÷ £¬ ¿ÉÊÇ ÏÂ Ò»²½ 
+ Êµ¼Ê ½øÐÐ Á¬½Ó Ê± £¬ Java   ÏµÍ³ È´»á Á¬µ½   DNS   ²éµ½ µÄ µÚÒ»¸ö   IP   µØÖ· ÉÏ £¬ 
+ Ò² ¾ÍÊÇ   10.10 . 10.2 ¡¡ £¬ ¾Í ÕâÑù £¬ Java   ÒÔÎª ½¨Á¢ ÁË ºÏ·¨ µÄ ÍøÂç Á¬Ïß £¬ Êµ 
+ ¼Ê ÉÏ È´ ¶Ô   target . victim . org   ·¢³ö ·Ç·¨ µÄ Á¬Ïß ÒªÇó ¡£   ÀûÓÃ ÕâÖÖ ·½Ê½ £¬ 
+ Ò»°ã ³£¼û µÄ ÍøÂç ÇÖÈë ¼¼ÇÉ ¾Í ¿ÉÒÔ Ö±½Ó ¹¥»÷   target . victim . org   Õâ²¿ Ô­±¾ 
+ Ó¦¸Ã ÊÜµ½ ·À»ðÇ½ ±£»¤ µÄ »úÆ÷ ¡£ ¡¡ ¡¡ ¡¡   
+ 
+ ¡¾ ×àÐ§ ÀíÓÉ ¡¿ 
+ ´óÂ¥ ¾¯ÎÀ Ó¦¸Ã ±£»¤ ËùÓÐ °ì¹«ÊÒ ²» ÊÜ Íâ½ç ÎÞÎ½ µÄ ÇÖÈÅ £¬ ¿ÉÊÇ ´Ë´¦ È´ ÍêÈ« ÅÉ 
+ ²»ÉÏ ÓÃ³¡ ¡£ Ô­Òò ÔÚÓÚ   Java   ³ÌÊ½ ÒÑ¾­ Í¨¹ý ÃÅ¿Ú µÄ ÀýÐÐ ¼ì²é £¬ ·ÅÐÐ µ½ Ä³°ì 
+ ¹«ÊÒ Àï Ö´ÐÐ È¥ ÁË £¬ ½ø ÁË »òÕß ÓÃ ÒÑÖª µÄ °²È« Èõµã ÔÚ ±ðµÄ °ì¹«ÊÒ ÃÅ¿Ú ÉÏ ´ò¶´ ¡£ 
+ ¸ü Î£ÏÕ µÄ ÊÇ £¬ ½øÈë ´óÂ¥ µÄ   Java   ³ÌÊ½ Èç¹û ÎÞ·¨ ¹¥ÆÆ ÆäËû °ì¹«ÊÒ £¬ ´Ó ÀíÂÛ 
+ ÉÏ ½²   Java   »¹ ¿ÉÒÔ Óë »ùµØ   ( www . attacker . org £© ÁªÂç £¬ ÔËÓÃ »ò µ÷ÅÉ ÆäËû 
+ ÍþÁ¦ ¸üÇ¿ µÄ ÌØÖÖ²¿¶Ó £¬ ÀûÓÃ ÌØÊâ ÎäÆ÷ £¨ Èç ÖøÃû µÄ SATAN ³ÌÊ½ £©   ÕÒ³ö ·À»ð 
+ Ç½ÄÚ ËùÓÐ ¿ÉÄÜ ³öÏÖ µÄ °²È«Â©¶´ ¡£ ¡¡ ¡¡ ¡¡   
+ 
+ 
+ Web   ²¡¶¾ 
+ ¸ÐÈ¾ ºÍ ÂûÑÓ ÊÇ µçÄÔ²¡¶¾ µÄ ÌìÐÔ £¬ µ± Ê¹ÓÃÕß ÎÞÒâ¼ä Á¬ ÉÏ ²»Ã÷ µÄ   Web   Õ¾ £¬ Òò 
+ ¶ø ÒýÈë ÉÏÊö µÄ   Java   ³ÌÐò £¬ µ¼ÖÂ ÄÚ²¿ ÍøÂç ÊÜµ½ ÍþÐ² £¬ »ù±¾ÉÏ ¾Í °µÊ¾ ÁË Web 
+ / Java   ²¡¶¾ ¿ÉÄÜ ÈëÇÖ ¡£ Èç¹û   Java   ³ÌÐò ÀûÓÃ ÕâÖÖ ·½Ê½ £¬ Í¨¹ý ÏÖÓÐ µÄ ÍøÂç Â© 
+ ¶´ ÈëÇÖ ÆäËû »úÆ÷ £¬ ²¢ ½« ×Ô¼º µÄ ³ÌÐò ¡¸ Ö²Èë ¡¹ ÆäËû ÎÞº¦ µÄ   Web   Õ¾ £¬ Ôò   Web 
+ / Java   ²¡¶¾ µÄ ³ûÐÎ ¾Í ºôÖ®ÓûÏÖ ÁË £¬ ÔÚ   Java   ¼¼Êõ ²»¶Ï ·¢Õ¹ ¸ïÐÂ µÄ ½ñÌì £¬ 
+ ËäÈ» Ô¤ÑÔ   Web / Java   ²¡¶¾ »¹ Îª Ö® ¹ýÔç £¬ ²»¹ý ±ÊÕß ÔÚ ´Ë Ï£Íû ´ó¼Ò Òª ¿ªÊ¼ Õý 
+ ÊÓ ÍøÂç°²È« ÕâÒ» ÖØÒª ¿ÎÌâ ¡£ ¡¡ ¡¡ ¡¡ ¡¡   
+ 
+ ¡¡   Sun   ¼Ó×° °ì¹«´óÂ¥ ¼àÊÓÆ÷ ¡¡ ¡¡ ¡¡   
+ 
+ Sun   ¹«Ë¾ ÔÚ È«Á¦ ÍÆ¹ã Java µÄ Í¬Ê± £¬ ×ÔÈ» ²»»á ÈÃ ÕâÑù ÖØÒª µÄ Â©¶´ ¼ÌÐø ´æ 
+ ÔÚ ¡£ ´óÖÂ µÄ ½â¾ö ·½·¨ ÊÇ £¬ ÎªÁË ÈÃ   Java   ³ÌÐò ½øÈë °ì¹«´óÂ¥ Ö®ºó £¬ ²»»á ·Ç·¨ 
+ ½¨Á¢ ÍøÂçÁ¬½Ó £¬ Sun   ¾ö¶¨ ¼ÇÏÂ Java   ³ÌÐò ËùÊô µÄ À´·Ã µ¥Î» £¬ ¼ÇÏÂ ÁË ¸Ã µ¥Î» 
+ µÄ »úÆ÷ Ãû³Æ Óë   IPµØÖ· £¬ ÈÎºÎ ÒÔºó µÄ ÍøÂçÁ¬½Ó ¶¼ ±ØÐë ºË¶Ô Ò»ÏÂ Ä¿µÄ µ¥Î» £¬ 
+ Èç¹û Óë À´·Ã µ¥Î» ²»Í¬ Õß £¬ Ò»ÂÉ ½ûÖ¹ ¡£ ÕâÖÖ ×÷·¨ £¬ Ó¦¸Ã ÄÜ¹» ÓÐÐ§ µØ ·ÀÖ¹ ÀàËÆ 
+ Çé¿ö µÄ ³öÏÖ ¡£ ¡¡ ¡¡   
+ 
+ ÁíÍâ £¬ ¼ÓÇ¿   DNS   µÄ °²È«ÐÔ Ó¦¸Ã ÊÇ ¸üÎª ¿ÉÐÐ µÄ ·½·¨ £¬ µ«ÊÇ ÓÉÓÚ   DNS   ±¾Éí 
+ ÊÇ Õû¸ö Internet   ·Ç³£ ÖØÒª µÄ ¼ìË÷·þÎñ £¬ ÈÎºÎ ÐÞ¸Ä ¶¼ »á Òý·¢ Ïàµ± ´ó µÄ À§ÄÑ 
+ ºÍ ×è°­ £¬ ËùÒÔ £¬ ¶ÌÆÚ Ö®ÄÚ ËßÖî ÊµÏÖ ¿ÉÄÜÐÔ ²» ´ó ¡£ ¡¡ 
+ 
+ 
+ - - 
+ ÎÒÒª ·ÉÏè £¬ ÎÞÂÛ µØÓü »¹ÊÇ ÌìÌÃ .. !             Welcome   to   http : / /  [ 5mfennivel  [ 10m . isCool . net 
+   ________                                     ³É¹¦ µÄ ½»ÏìÇú ?   Ê¤Àû µÄ ´úÑÔÈË ? 
+   ___     __   \ _____   _____________________   ____     __________ 
+   __     / _ /   / _     _   \ __     ___ / __     ___ / _     _   \ _     /   /   / __     ___ / 
+   _     ____ /   /     __ / _     /         _ ( __     )   /     __ / /   / _ /   /   _ ( __     )   
+   / _ /             \ ___ /   / _ /           / ____ /     \ ___ /   \ __ , _ /     / ____ /         ........     is   ready ! 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.9 . 0.252 ] 
+ 
+   
+ 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ [ ·µ»Ø ÉÏ Ò»Ò³ ]   [ ±¾ ÌÖÂÛÇø ]

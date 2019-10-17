@@ -1,0 +1,553 @@
+ÈÕÔÂ ¹â»ª   - -   Hardware ¾«»ªÇø ÎÄÕÂ ÔÄ¶Á 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   ·¢ÐÅÈË :   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Mon   Oct   16   13 : 23 : 08   2000 )   ,   ×ªÐÅ 
+ 
+ ÀÏ°å Òª ¸ø ÎÒ Âò Ì¨ »úÆ÷ £¬ Ö÷Òª ÓÃÓÚ ¿ÆÑ§¼ÆËã ( ÊýÖµ Ä£Äâ £¬ ½âÆ« Î¢·Ö·½³Ì ×é ) ¡£ 
+ ¼Ó Ò»Ì¨ ¼¤´ò £¬ 15 , 000 Ôª ×óÓÒ ¡£ 
+ 
+ ÕÒ ÁË ÕÅ»ªº£ µÄ ±¨¼Ûµ¥ £¬ Ï¹Åä ÁË Ò»ÏÂ £¬ Çë ¸÷Î» ´óÏº ¸ø ÄÃ ¸ö Ö÷Òâ ¡£ 
+ Åä¼þ           ÐÍºÅ                               ±¨¼Û     ËµÃ÷ 
+ CPU           PIII800 ºÐ                       2340     PIII850 Òª 3100 £¬ ¹ó 
+ ÄÚ´æ         Kingmax   128M * 2             2040     Ïë Âò ÈýÐÇ   256M   ECC £¬ Òª 3100 £¬ ÖµµÃ Âð £¿ 
+ Ó²ÅÌ         ½ð ×ê ËÄ   40G                     1970     IBM ²£Á§ 40G ²» ÖªµÀ Òª ¶àÉÙ £¿ 
+ ¹âÇý         ´ó°×öè   44 ¡Á                     440     ¸Ö »úÐ¾ ºÃ Âð £¿ 
+ Ö÷°å         Intel   815E ( º¬ Éù¿¨ )     1250     ¿´µ½ Ç°Ãæ µÄ ¡° Ó²¼þÐÐÇé ¡± Òª 1350 £¬ why ? 
+ ÏÔ¿¨         Ð¡Ó°°Ô TNT2   32M               620     »ù±¾ ²» ÍæÓÎÏ· 
+ ÏÔÊ¾Æ÷     Acer   78C                         2350     ¸ú Philips   107G ±È ÈçºÎ £¿ 
+ ÈíÇý         Sony                                   113 
+ ¼üÅÌ         Acer   52M ·ÀË®                   120     ¼üÅÌ ¡¢ Êó±ê ÓÃ ºÃµã µÄ 
+ Êó±ê         ÂÞ¼¼ Ììõõ ( Èý¼ü )               135 
+ Íø¿¨         D - Link µ¥                             85     Òª ²»Òª 100M µÄ £¿ 
+ Modern     ½ð Íø°Ô 56K ÄÚÖÃ                 115     µÈ À­ ÁË µç»° ºó ÓÃ £¬ ÍâÖÃ ¾Í Ã» ±ØÒª ÁË 
+ Hub           D - Link   8 ¿Ú                       345     Áô´ý ÒÔºó ÔÙ ½øÀ´ ÑÐ¾¿Éú ÓÃ £¬ 4 ¿Ú ¶àÉÙ Ç® £¿ 
+ ÒôÏä         µ¼º½ Õß Ä¾ÖÊ                         88     ºÇºÇ £¬ ±¾ÈË ÀÖÃ¤ £¬ ×÷ ±³¾°ÔëÉù ÓÃ µÄ 
+ ¶ú»ú                                                     50 
+ »úÏä         ±£Àû µÃ 7237                       380     Òª ±ØÒª ÂòºÃ µÄ µçÔ´ Âð £¿ 
+ ÍøÏß         150m                                   300     Hub - Hub ¾ÍÒª 100m 
+ ´òÓ¡»ú     HP   6Lpro                         3150     Õâ¸ö ÀÏ°å ÓÃ µÄ £¬ Âò Canon ¸ü ±ãÒË °É £¿ 
+ total       - - - - - - - - - - - - - - - - - - - 15900     16 , 000 ÄÚ ÀÏ°å ¹À¼Æ ²»»á ·´¶Ô 
+ 
+ - - 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.16 . 12.208 ] 
+ ·¢ÐÅÈË :   overload   ( ¹úÍõ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Mon   Oct   16   13 : 55 : 05   2000 )   ,   ×ªÐÅ 
+ 
+ ºÃ ÉÝ³Þ Ñ½ £¬ ÕâÃ´ ¹ó µÄ ¶«¶« ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÀÏ°å Òª ¸ø ÎÒ Âò Ì¨ »úÆ÷ £¬ Ö÷Òª ÓÃÓÚ ¿ÆÑ§¼ÆËã ( ÊýÖµ Ä£Äâ £¬ ½âÆ« Î¢·Ö·½³Ì ×é ) ¡£ 
+ :   ¼Ó Ò»Ì¨ ¼¤´ò £¬ 15 , 000 Ôª ×óÓÒ ¡£ 
+ :   ÕÒ ÁË ÕÅ»ªº£ µÄ ±¨¼Ûµ¥ £¬ Ï¹Åä ÁË Ò»ÏÂ £¬ Çë ¸÷Î» ´óÏº ¸ø ÄÃ ¸ö Ö÷Òâ ¡£ 
+ :   Åä¼þ           ÐÍºÅ                               ±¨¼Û     ËµÃ÷ 
+ :   CPU           PIII800 ºÐ                       2340     PIII850 Òª 3100 £¬ ¹ó 
+ :   ÄÚ´æ         Kingmax   128M * 2             2040     Ïë Âò ÈýÐÇ   256M   ECC £¬ Òª 3100 £¬ ÖµµÃ Âð £¿ 
+ :   Ó²ÅÌ         ½ð ×ê ËÄ   40G                     1970     IBM ²£Á§ 40G ²» ÖªµÀ Òª ¶àÉÙ £¿ 
+ :   ¹âÇý         ´ó°×öè   44 ¡Á                     440     ¸Ö »úÐ¾ ºÃ Âð £¿ 
+ :   Ö÷°å         Intel   815E ( º¬ Éù¿¨ )     1250     ¿´µ½ Ç°Ãæ µÄ ¡° Ó²¼þÐÐÇé ¡± Òª 1350 £¬ why ? 
+ :   ÏÔ¿¨         Ð¡Ó°°Ô TNT2   32M               620     »ù±¾ ²» ÍæÓÎÏ· 
+ :   ÏÔÊ¾Æ÷     Acer   78C                         2350     ¸ú Philips   107G ±È ÈçºÎ £¿ 
+ :   ÈíÇý         Sony                                   113 
+ :   ¼üÅÌ         Acer   52M ·ÀË®                   120     ¼üÅÌ ¡¢ Êó±ê ÓÃ ºÃµã µÄ 
+ :   Êó±ê         ÂÞ¼¼ Ììõõ ( Èý¼ü )               135 
+ :   Íø¿¨         D - Link µ¥                             85     Òª ²»Òª 100M µÄ £¿ 
+ :   Modern     ½ð Íø°Ô 56K ÄÚÖÃ                 115     µÈ À­ ÁË µç»° ºó ÓÃ £¬ ÍâÖÃ ¾Í Ã» ±ØÒª ÁË 
+ :   Hub           D - Link   8 ¿Ú                       345     Áô´ý ÒÔºó ÔÙ ½øÀ´ ÑÐ¾¿Éú ÓÃ £¬ 4 ¿Ú ¶àÉÙ Ç® £¿ 
+ :   ÒôÏä         µ¼º½ Õß Ä¾ÖÊ                         88     ºÇºÇ £¬ ±¾ÈË ÀÖÃ¤ £¬ ×÷ ±³¾°ÔëÉù ÓÃ µÄ 
+ :   ¶ú»ú                                                     50 
+ :   »úÏä         ±£Àû µÃ 7237                       380     Òª ±ØÒª ÂòºÃ µÄ µçÔ´ Âð £¿ 
+ :   ÍøÏß         150m                                   300     Hub - Hub ¾ÍÒª 100m 
+ :   ´òÓ¡»ú     HP   6Lpro                         3150     Õâ¸ö ÀÏ°å ÓÃ µÄ £¬ Âò Canon ¸ü ±ãÒË °É £¿ 
+ :   total       - - - - - - - - - - - - - - - - - - - 15900     16 , 000 ÄÚ ÀÏ°å ¹À¼Æ ²»»á ·´¶Ô 
+ 
+ 
+ - - 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.15 . 10.7 ] 
+ ·¢ÐÅÈË :   frankzhou   ( ÓÀ²» ÑÔ ÀÏ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Mon   Oct   16   14 : 18 : 29   2000 )   ,   ×ªÐÅ 
+ 
+ ÕæÊÇ ¸ö »ûÐÎ ÅäÖÃ 
+ ·´Õæ ²» ÍæÓÎÏ· , ÓÐ ±ØÒª Âò PIII800 Âï 
+ 
+ 
+ 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÀÏ°å Òª ¸ø ÎÒ Âò Ì¨ »úÆ÷ £¬ Ö÷Òª ÓÃÓÚ ¿ÆÑ§¼ÆËã ( ÊýÖµ Ä£Äâ £¬ ½âÆ« Î¢·Ö·½³Ì ×é ) ¡£ 
+ :   ¼Ó Ò»Ì¨ ¼¤´ò £¬ 15 , 000 Ôª ×óÓÒ ¡£ 
+ :   ÕÒ ÁË ÕÅ»ªº£ µÄ ±¨¼Ûµ¥ £¬ Ï¹Åä ÁË Ò»ÏÂ £¬ Çë ¸÷Î» ´óÏº ¸ø ÄÃ ¸ö Ö÷Òâ ¡£ 
+ :   Åä¼þ           ÐÍºÅ                               ±¨¼Û     ËµÃ÷ 
+ :   CPU           PIII800 ºÐ                       2340     PIII850 Òª 3100 £¬ ¹ó 
+ :   ÄÚ´æ         Kingmax   128M * 2             2040     Ïë Âò ÈýÐÇ   256M   ECC £¬ Òª 3100 £¬ ÖµµÃ Âð £¿ 
+ :   Ó²ÅÌ         ½ð ×ê ËÄ   40G                     1970     IBM ²£Á§ 40G ²» ÖªµÀ Òª ¶àÉÙ £¿ 
+ :   ¹âÇý         ´ó°×öè   44 ¡Á                     440     ¸Ö »úÐ¾ ºÃ Âð £¿ 
+ :   Ö÷°å         Intel   815E ( º¬ Éù¿¨ )     1250     ¿´µ½ Ç°Ãæ µÄ ¡° Ó²¼þÐÐÇé ¡± Òª 1350 £¬ why ? 
+ :   ÏÔ¿¨         Ð¡Ó°°Ô TNT2   32M               620     »ù±¾ ²» ÍæÓÎÏ· 
+ :   ÏÔÊ¾Æ÷     Acer   78C                         2350     ¸ú Philips   107G ±È ÈçºÎ £¿ 
+ :   ÈíÇý         Sony                                   113 
+ :   ¼üÅÌ         Acer   52M ·ÀË®                   120     ¼üÅÌ ¡¢ Êó±ê ÓÃ ºÃµã µÄ 
+ :   Êó±ê         ÂÞ¼¼ Ììõõ ( Èý¼ü )               135 
+ :   Íø¿¨         D - Link µ¥                             85     Òª ²»Òª 100M µÄ £¿ 
+ :   Modern     ½ð Íø°Ô 56K ÄÚÖÃ                 115     µÈ À­ ÁË µç»° ºó ÓÃ £¬ ÍâÖÃ ¾Í Ã» ±ØÒª ÁË 
+ :   Hub           D - Link   8 ¿Ú                       345     Áô´ý ÒÔºó ÔÙ ½øÀ´ ÑÐ¾¿Éú ÓÃ £¬ 4 ¿Ú ¶àÉÙ Ç® £¿ 
+ :   ÒôÏä         µ¼º½ Õß Ä¾ÖÊ                         88     ºÇºÇ £¬ ±¾ÈË ÀÖÃ¤ £¬ ×÷ ±³¾°ÔëÉù ÓÃ µÄ 
+ :   ¶ú»ú                                                     50 
+ :   »úÏä         ±£Àû µÃ 7237                       380     Òª ±ØÒª ÂòºÃ µÄ µçÔ´ Âð £¿ 
+ :   ÍøÏß         150m                                   300     Hub - Hub ¾ÍÒª 100m 
+ :   ´òÓ¡»ú     HP   6Lpro                         3150     Õâ¸ö ÀÏ°å ÓÃ µÄ £¬ Âò Canon ¸ü ±ãÒË °É £¿ 
+ :   total       - - - - - - - - - - - - - - - - - - - 15900     16 , 000 ÄÚ ÀÏ°å ¹À¼Æ ²»»á ·´¶Ô 
+ 
+ 
+ - - 
+ 
+ 
+ 
+ 
+ 
+ : (   (         ) : : : : :     ¶«±ß ÈÕ³ö Î÷±ßÓê 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.24 . 13.113 ] 
+ ·¢ÐÅÈË :   blinkday   ( blinkday ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Mon   Oct   16   14 : 36 : 04   2000 )   ,   ×ªÐÅ 
+ 
+ ÅöÉÏ ÕâÑù µÄ ÀÏ°å £¬ ÕæÊÇ ¡£ ¡£ ¡£ ¡£ ÓÃÓÚ ¿ÆÑ§¼ÆËã £¿ ÄãÃÇ µÄ ÀÏ°å 
+ ÊÇ²»ÊÇ ÓÐµã ¡£ ¡£ ¡£ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÀÏ°å Òª ¸ø ÎÒ Âò Ì¨ »úÆ÷ £¬ Ö÷Òª ÓÃÓÚ ¿ÆÑ§¼ÆËã ( ÊýÖµ Ä£Äâ £¬ ½âÆ« Î¢·Ö·½³Ì ×é ) ¡£ 
+ :   ¼Ó Ò»Ì¨ ¼¤´ò £¬ 15 , 000 Ôª ×óÓÒ ¡£ 
+ :   ÕÒ ÁË ÕÅ»ªº£ µÄ ±¨¼Ûµ¥ £¬ Ï¹Åä ÁË Ò»ÏÂ £¬ Çë ¸÷Î» ´óÏº ¸ø ÄÃ ¸ö Ö÷Òâ ¡£ 
+ :   Åä¼þ           ÐÍºÅ                               ±¨¼Û     ËµÃ÷ 
+ :   CPU           PIII800 ºÐ                       2340     PIII850 Òª 3100 £¬ ¹ó 
+ :   ÄÚ´æ         Kingmax   128M * 2             2040     Ïë Âò ÈýÐÇ   256M   ECC £¬ Òª 3100 £¬ ÖµµÃ Âð £¿ 
+ :   Ó²ÅÌ         ½ð ×ê ËÄ   40G                     1970     IBM ²£Á§ 40G ²» ÖªµÀ Òª ¶àÉÙ £¿ 
+ :   ¹âÇý         ´ó°×öè   44 ¡Á                     440     ¸Ö »úÐ¾ ºÃ Âð £¿ 
+ :   Ö÷°å         Intel   815E ( º¬ Éù¿¨ )     1250     ¿´µ½ Ç°Ãæ µÄ ¡° Ó²¼þÐÐÇé ¡± Òª 1350 £¬ why ? 
+ :   ÏÔ¿¨         Ð¡Ó°°Ô TNT2   32M               620     »ù±¾ ²» ÍæÓÎÏ· 
+ :   ÏÔÊ¾Æ÷     Acer   78C                         2350     ¸ú Philips   107G ±È ÈçºÎ £¿ 
+ :   ÈíÇý         Sony                                   113 
+ :   ¼üÅÌ         Acer   52M ·ÀË®                   120     ¼üÅÌ ¡¢ Êó±ê ÓÃ ºÃµã µÄ 
+ :   Êó±ê         ÂÞ¼¼ Ììõõ ( Èý¼ü )               135 
+ :   Íø¿¨         D - Link µ¥                             85     Òª ²»Òª 100M µÄ £¿ 
+ :   Modern     ½ð Íø°Ô 56K ÄÚÖÃ                 115     µÈ À­ ÁË µç»° ºó ÓÃ £¬ ÍâÖÃ ¾Í Ã» ±ØÒª ÁË 
+ :   Hub           D - Link   8 ¿Ú                       345     Áô´ý ÒÔºó ÔÙ ½øÀ´ ÑÐ¾¿Éú ÓÃ £¬ 4 ¿Ú ¶àÉÙ Ç® £¿ 
+ :   ÒôÏä         µ¼º½ Õß Ä¾ÖÊ                         88     ºÇºÇ £¬ ±¾ÈË ÀÖÃ¤ £¬ ×÷ ±³¾°ÔëÉù ÓÃ µÄ 
+ :   ¶ú»ú                                                     50 
+ :   »úÏä         ±£Àû µÃ 7237                       380     Òª ±ØÒª ÂòºÃ µÄ µçÔ´ Âð £¿ 
+ :   ÍøÏß         150m                                   300     Hub - Hub ¾ÍÒª 100m 
+ :   ´òÓ¡»ú     HP   6Lpro                         3150     Õâ¸ö ÀÏ°å ÓÃ µÄ £¬ Âò Canon ¸ü ±ãÒË °É £¿ 
+ :   total       - - - - - - - - - - - - - - - - - - - 15900     16 , 000 ÄÚ ÀÏ°å ¹À¼Æ ²»»á ·´¶Ô 
+ 
+ 
+ - - 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   202.121 . 142.92 ] 
+ ·¢ÐÅÈË :   syyes   ( Ð¡ ÏÌÏÌ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Mon   Oct   16   15 : 45 : 56   2000 )   ,   ×ªÐÅ 
+ 
+ 
+ µçÔ´ £¬ »úÏä Ó¦¸Ã ÔÙ ºÃµã 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÀÏ°å Òª ¸ø ÎÒ Âò Ì¨ »úÆ÷ £¬ Ö÷Òª ÓÃÓÚ ¿ÆÑ§¼ÆËã ( ÊýÖµ Ä£Äâ £¬ ½âÆ« Î¢·Ö·½³Ì ×é ) ¡£ 
+ :   ¼Ó Ò»Ì¨ ¼¤´ò £¬ 15 , 000 Ôª ×óÓÒ ¡£ 
+ :   ÕÒ ÁË ÕÅ»ªº£ µÄ ±¨¼Ûµ¥ £¬ Ï¹Åä ÁË Ò»ÏÂ £¬ Çë ¸÷Î» ´óÏº ¸ø ÄÃ ¸ö Ö÷Òâ ¡£ 
+ :   Åä¼þ           ÐÍºÅ                               ±¨¼Û     ËµÃ÷ 
+ :   CPU           PIII800 ºÐ                       2340     PIII850 Òª 3100 £¬ ¹ó 
+ :   ÄÚ´æ         Kingmax   128M * 2             2040     Ïë Âò ÈýÐÇ   256M   ECC £¬ Òª 3100 £¬ ÖµµÃ Âð £¿ 
+ :   Ó²ÅÌ         ½ð ×ê ËÄ   40G                     1970     IBM ²£Á§ 40G ²» ÖªµÀ Òª ¶àÉÙ £¿ 
+ :   ¹âÇý         ´ó°×öè   44 ¡Á                     440     ¸Ö »úÐ¾ ºÃ Âð £¿ 
+ :   Ö÷°å         Intel   815E ( º¬ Éù¿¨ )     1250     ¿´µ½ Ç°Ãæ µÄ ¡° Ó²¼þÐÐÇé ¡± Òª 1350 £¬ why ? 
+ :   ÏÔ¿¨         Ð¡Ó°°Ô TNT2   32M               620     »ù±¾ ²» ÍæÓÎÏ· 
+ :   ÏÔÊ¾Æ÷     Acer   78C                         2350     ¸ú Philips   107G ±È ÈçºÎ £¿ 
+ :   ÈíÇý         Sony                                   113 
+ :   ¼üÅÌ         Acer   52M ·ÀË®                   120     ¼üÅÌ ¡¢ Êó±ê ÓÃ ºÃµã µÄ 
+ :   Êó±ê         ÂÞ¼¼ Ììõõ ( Èý¼ü )               135 
+ :   Íø¿¨         D - Link µ¥                             85     Òª ²»Òª 100M µÄ £¿ 
+ :   Modern     ½ð Íø°Ô 56K ÄÚÖÃ                 115     µÈ À­ ÁË µç»° ºó ÓÃ £¬ ÍâÖÃ ¾Í Ã» ±ØÒª ÁË 
+ :   Hub           D - Link   8 ¿Ú                       345     Áô´ý ÒÔºó ÔÙ ½øÀ´ ÑÐ¾¿Éú ÓÃ £¬ 4 ¿Ú ¶àÉÙ Ç® £¿ 
+ :   ÒôÏä         µ¼º½ Õß Ä¾ÖÊ                         88     ºÇºÇ £¬ ±¾ÈË ÀÖÃ¤ £¬ ×÷ ±³¾°ÔëÉù ÓÃ µÄ 
+ :   ¶ú»ú                                                     50 
+ :   »úÏä         ±£Àû µÃ 7237                       380     Òª ±ØÒª ÂòºÃ µÄ µçÔ´ Âð £¿ 
+ :   ÍøÏß         150m                                   300     Hub - Hub ¾ÍÒª 100m 
+ :   ´òÓ¡»ú     HP   6Lpro                         3150     Õâ¸ö ÀÏ°å ÓÃ µÄ £¬ Âò Canon ¸ü ±ãÒË °É £¿ 
+ :   total       - - - - - - - - - - - - - - - - - - - 15900     16 , 000 ÄÚ ÀÏ°å ¹À¼Æ ²»»á ·´¶Ô 
+ 
+ 
+ - - 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.11 . 5.208 ] 
+ ·¢ÐÅÈË :   mikecat   ( »¢Æ¤ Ã¨ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Mon   Oct   16   16 : 45 : 30   2000 )   ,   ×ªÐÅ 
+ 
+ Èç¹û ÊÇ ÎÒ £¬ Äþ¿É ²»Âò TNT2 Ò² Òª 256MECC ¡£ Èç¹û Äã ÕæµÄ ²» ´òËã Åä Ò»Ì¨ ÓÎÏ·»ú µÄ»° ¡£ 
+ ÎÒ ÈÏÎª TNT2 ´¿Êô ¼¦Àß ¡£ ²»Èç ATI   All   IN   WONDER £¬ ºóÕß ´ø ÊÓÆµ ±à¼­ 
+ ¹¦ÄÜ £¬ ÓÐ DVD »Ø·Å £¬ ÅäºÏ CDR ¿É¿Ì ×Ô¼º µÄ VCD ¡£ ¡£ ¡£ 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÀÏ°å Òª ¸ø ÎÒ Âò Ì¨ »úÆ÷ £¬ Ö÷Òª ÓÃÓÚ ¿ÆÑ§¼ÆËã ( ÊýÖµ Ä£Äâ £¬ ½âÆ« Î¢·Ö·½³Ì ×é ) ¡£ 
+ :   ¼Ó Ò»Ì¨ ¼¤´ò £¬ 15 , 000 Ôª ×óÓÒ ¡£ 
+ :   ÕÒ ÁË ÕÅ»ªº£ µÄ ±¨¼Ûµ¥ £¬ Ï¹Åä ÁË Ò»ÏÂ £¬ Çë ¸÷Î» ´óÏº ¸ø ÄÃ ¸ö Ö÷Òâ ¡£ 
+ :   Åä¼þ           ÐÍºÅ                               ±¨¼Û     ËµÃ÷ 
+ :   CPU           PIII800 ºÐ                       2340     PIII850 Òª 3100 £¬ ¹ó 
+ :   ÄÚ´æ         Kingmax   128M * 2             2040     Ïë Âò ÈýÐÇ   256M   ECC £¬ Òª 3100 £¬ ÖµµÃ Âð £¿ 
+ :   Ó²ÅÌ         ½ð ×ê ËÄ   40G                     1970     IBM ²£Á§ 40G ²» ÖªµÀ Òª ¶àÉÙ £¿ 
+ :   ¹âÇý         ´ó°×öè   44 ¡Á                     440     ¸Ö »úÐ¾ ºÃ Âð £¿ 
+ :   Ö÷°å         Intel   815E ( º¬ Éù¿¨ )     1250     ¿´µ½ Ç°Ãæ µÄ ¡° Ó²¼þÐÐÇé ¡± Òª 1350 £¬ why ? 
+ :   ÏÔ¿¨         Ð¡Ó°°Ô TNT2   32M               620     »ù±¾ ²» ÍæÓÎÏ· 
+ :   ÏÔÊ¾Æ÷     Acer   78C                         2350     ¸ú Philips   107G ±È ÈçºÎ £¿ 
+ :   ÈíÇý         Sony                                   113 
+ :   ¼üÅÌ         Acer   52M ·ÀË®                   120     ¼üÅÌ ¡¢ Êó±ê ÓÃ ºÃµã µÄ 
+ :   Êó±ê         ÂÞ¼¼ Ììõõ ( Èý¼ü )               135 
+ :   Íø¿¨         D - Link µ¥                             85     Òª ²»Òª 100M µÄ £¿ 
+ :   Modern     ½ð Íø°Ô 56K ÄÚÖÃ                 115     µÈ À­ ÁË µç»° ºó ÓÃ £¬ ÍâÖÃ ¾Í Ã» ±ØÒª ÁË 
+ :   Hub           D - Link   8 ¿Ú                       345     Áô´ý ÒÔºó ÔÙ ½øÀ´ ÑÐ¾¿Éú ÓÃ £¬ 4 ¿Ú ¶àÉÙ Ç® £¿ 
+ :   ÒôÏä         µ¼º½ Õß Ä¾ÖÊ                         88     ºÇºÇ £¬ ±¾ÈË ÀÖÃ¤ £¬ ×÷ ±³¾°ÔëÉù ÓÃ µÄ 
+ :   ¶ú»ú                                                     50 
+ :   »úÏä         ±£Àû µÃ 7237                       380     Òª ±ØÒª ÂòºÃ µÄ µçÔ´ Âð £¿ 
+ :   ÍøÏß         150m                                   300     Hub - Hub ¾ÍÒª 100m 
+ :   ´òÓ¡»ú     HP   6Lpro                         3150     Õâ¸ö ÀÏ°å ÓÃ µÄ £¬ Âò Canon ¸ü ±ãÒË °É £¿ 
+ :   total       - - - - - - - - - - - - - - - - - - - 15900     16 , 000 ÄÚ ÀÏ°å ¹À¼Æ ²»»á ·´¶Ô 
+ 
+ 
+ - - 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   202.120 . 100.36 ] 
+ ·¢ÐÅÈË :   lijiny   ( Kingdog ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Mon   Oct   16   17 : 31 : 56   2000 )   ,   ×ªÐÅ 
+ 
+ ½¨Òé »¹ÊÇ ²»Òª ÓÃ Ð¡ Ó¡°Í µÄ °É , 
+ unika   ºÍ   paradise µÄ ¹ÙË¾ Ã»ÍêÃ»ÁË . 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÀÏ°å Òª ¸ø ÎÒ Âò Ì¨ »úÆ÷ £¬ Ö÷Òª ÓÃÓÚ ¿ÆÑ§¼ÆËã ( ÊýÖµ Ä£Äâ £¬ ½âÆ« Î¢·Ö·½³Ì ×é ) ¡£ 
+ :   ¼Ó Ò»Ì¨ ¼¤´ò £¬ 15 , 000 Ôª ×óÓÒ ¡£ 
+ :   ÕÒ ÁË ÕÅ»ªº£ µÄ ±¨¼Ûµ¥ £¬ Ï¹Åä ÁË Ò»ÏÂ £¬ Çë ¸÷Î» ´óÏº ¸ø ÄÃ ¸ö Ö÷Òâ ¡£ 
+ :   Åä¼þ           ÐÍºÅ                               ±¨¼Û     ËµÃ÷ 
+ :   CPU           PIII800 ºÐ                       2340     PIII850 Òª 3100 £¬ ¹ó 
+ :   ÄÚ´æ         Kingmax   128M * 2             2040     Ïë Âò ÈýÐÇ   256M   ECC £¬ Òª 3100 £¬ ÖµµÃ Âð £¿ 
+ :   Ó²ÅÌ         ½ð ×ê ËÄ   40G                     1970     IBM ²£Á§ 40G ²» ÖªµÀ Òª ¶àÉÙ £¿ 
+ :   ¹âÇý         ´ó°×öè   44 ¡Á                     440     ¸Ö »úÐ¾ ºÃ Âð £¿ 
+ :   Ö÷°å         Intel   815E ( º¬ Éù¿¨ )     1250     ¿´µ½ Ç°Ãæ µÄ ¡° Ó²¼þÐÐÇé ¡± Òª 1350 £¬ why ? 
+ :   ÏÔ¿¨         Ð¡Ó°°Ô TNT2   32M               620     »ù±¾ ²» ÍæÓÎÏ· 
+ :   ÏÔÊ¾Æ÷     Acer   78C                         2350     ¸ú Philips   107G ±È ÈçºÎ £¿ 
+ :   ÈíÇý         Sony                                   113 
+ :   ¼üÅÌ         Acer   52M ·ÀË®                   120     ¼üÅÌ ¡¢ Êó±ê ÓÃ ºÃµã µÄ 
+ :   Êó±ê         ÂÞ¼¼ Ììõõ ( Èý¼ü )               135 
+ :   Íø¿¨         D - Link µ¥                             85     Òª ²»Òª 100M µÄ £¿ 
+ :   Modern     ½ð Íø°Ô 56K ÄÚÖÃ                 115     µÈ À­ ÁË µç»° ºó ÓÃ £¬ ÍâÖÃ ¾Í Ã» ±ØÒª ÁË 
+ :   Hub           D - Link   8 ¿Ú                       345     Áô´ý ÒÔºó ÔÙ ½øÀ´ ÑÐ¾¿Éú ÓÃ £¬ 4 ¿Ú ¶àÉÙ Ç® £¿ 
+ :   ÒôÏä         µ¼º½ Õß Ä¾ÖÊ                         88     ºÇºÇ £¬ ±¾ÈË ÀÖÃ¤ £¬ ×÷ ±³¾°ÔëÉù ÓÃ µÄ 
+ :   ¶ú»ú                                                     50 
+ :   »úÏä         ±£Àû µÃ 7237                       380     Òª ±ØÒª ÂòºÃ µÄ µçÔ´ Âð £¿ 
+ :   ÍøÏß         150m                                   300     Hub - Hub ¾ÍÒª 100m 
+ :   ´òÓ¡»ú     HP   6Lpro                         3150     Õâ¸ö ÀÏ°å ÓÃ µÄ £¬ Âò Canon ¸ü ±ãÒË °É £¿ 
+ :   total       - - - - - - - - - - - - - - - - - - - 15900     16 , 000 ÄÚ ÀÏ°å ¹À¼Æ ²»»á ·´¶Ô 
+ 
+ 
+ - - 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.64 . 17.17 ] 
+ ·¢ÐÅÈË :   zyc   ( Ë®Éñ ¾ø¶ÔÁã¶È ~ ~ Ë®Áµ»¨ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Mon   Oct   16   20 : 32 : 36   2000 )   ,   ×ªÐÅ 
+ 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÀÏ°å Òª ¸ø ÎÒ Âò Ì¨ »úÆ÷ £¬ Ö÷Òª ÓÃÓÚ ¿ÆÑ§¼ÆËã ( ÊýÖµ Ä£Äâ £¬ ½âÆ« Î¢·Ö·½³Ì ×é ) ¡£ 
+ :   ¼Ó Ò»Ì¨ ¼¤´ò £¬ 15 , 000 Ôª ×óÓÒ ¡£ 
+ :   ÕÒ ÁË ÕÅ»ªº£ µÄ ±¨¼Ûµ¥ £¬ Ï¹Åä ÁË Ò»ÏÂ £¬ Çë ¸÷Î» ´óÏº ¸ø ÄÃ ¸ö Ö÷Òâ ¡£ 
+ :   Åä¼þ           ÐÍºÅ                               ±¨¼Û     ËµÃ÷ 
+ :   CPU           PIII800 ºÐ                       2340     PIII850 Òª 3100 £¬ ¹ó 
+ :   ÄÚ´æ         Kingmax   128M * 2             2040     Ïë Âò ÈýÐÇ   256M   ECC £¬ Òª 3100 £¬ ÖµµÃ Âð £¿ 
+ ÖµµÃ ¡£ 
+ :   Ó²ÅÌ         ½ð ×ê ËÄ   40G                     1970     IBM ²£Á§ 40G ²» ÖªµÀ Òª ¶àÉÙ £¿ 
+ :   ¹âÇý         ´ó°×öè   44 ¡Á                     440     ¸Ö »úÐ¾ ºÃ Âð £¿ 
+ :   Ö÷°å         Intel   815E ( º¬ Éù¿¨ )     1250     ¿´µ½ Ç°Ãæ µÄ ¡° Ó²¼þÐÐÇé ¡± Òª 1350 £¬ why ? 
+ :   ÏÔ¿¨         Ð¡Ó°°Ô TNT2   32M               620     »ù±¾ ²» ÍæÓÎÏ· 
+ :   ÏÔÊ¾Æ÷     Acer   78C                         2350     ¸ú Philips   107G ±È ÈçºÎ £¿ 
+ :   ÈíÇý         Sony                                   113 
+ :   ¼üÅÌ         Acer   52M ·ÀË®                   120     ¼üÅÌ ¡¢ Êó±ê ÓÃ ºÃµã µÄ 
+ :   Êó±ê         ÂÞ¼¼ Ììõõ ( Èý¼ü )               135 
+ ÄÇ ½¨Òé ¶¼ ÓÃ Logitech µÄ £¬ ¼üÅÌ 200 ²»µ½ Ò»µã £¬ Ðýõõ 200 ¶àµã ¡£ 
+ :   Íø¿¨         D - Link µ¥                             85     Òª ²»Òª 100M µÄ £¿ 
+ :   Modern     ½ð Íø°Ô 56K ÄÚÖÃ                 115     µÈ À­ ÁË µç»° ºó ÓÃ £¬ ÍâÖÃ ¾Í Ã» ±ØÒª ÁË 
+ :   Hub           D - Link   8 ¿Ú                       345     Áô´ý ÒÔºó ÔÙ ½øÀ´ ÑÐ¾¿Éú ÓÃ £¬ 4 ¿Ú ¶àÉÙ Ç® £¿ 
+ :   ÒôÏä         µ¼º½ Õß Ä¾ÖÊ                         88     ºÇºÇ £¬ ±¾ÈË ÀÖÃ¤ £¬ ×÷ ±³¾°ÔëÉù ÓÃ µÄ 
+ :   ¶ú»ú                                                     50 
+ :   »úÏä         ±£Àû µÃ 7237                       380     Òª ±ØÒª ÂòºÃ µÄ µçÔ´ Âð £¿ 
+ µ±È» Òª £¬ ÎÈ¶¨ÐÔ ºÜ ÖØÒª µÄ ¡£ 
+ :   ÍøÏß         150m                                   300     Hub - Hub ¾ÍÒª 100m 
+ :   ´òÓ¡»ú     HP   6Lpro                         3150     Õâ¸ö ÀÏ°å ÓÃ µÄ £¬ Âò Canon ¸ü ±ãÒË °É £¿ 
+ ¼¤¹â´òÓ¡»ú HP ¾ø¶Ô ÊÇ ÀÏ´ó ¡£ 
+ :   total       - - - - - - - - - - - - - - - - - - - 15900     16 , 000 ÄÚ ÀÏ°å ¹À¼Æ ²»»á ·´¶Ô 
+ 
+ - - 
+ ×øÔÚ ÈçÉ½ µÄ Ê¬¹Ç ÉÏ £¬ Ëý Ä¬Ä¬µØ Îª ÎÒ µ¹ ÁË Ò» ±­¾Æ £¬ ÐÒ¸£ Î¢Ð¦ ¡£ 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.9 . 0.131 ] 
+ ·¢ÐÅÈË :   Perseus   ( ·ÉÏè µÄ »ðÑæ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Mon   Oct   16   20 : 49 : 55   2000 )   ,   ×ªÐÅ 
+ 
+ 
+ 
+ ¡¾   ÔÚ   mikecat   ( »¢Æ¤ Ã¨ )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   Èç¹û ÊÇ ÎÒ £¬ Äþ¿É ²»Âò TNT2 Ò² Òª 256MECC ¡£ Èç¹û Äã ÕæµÄ ²» ´òËã Åä Ò»Ì¨ ÓÎÏ·»ú µÄ»° ¡£ 
+ :   ÎÒ ÈÏÎª TNT2 ´¿Êô ¼¦Àß ¡£ ²»Èç ATI   All   IN   WONDER £¬ ºóÕß ´ø ÊÓÆµ ±à¼­ 
+ :   ¹¦ÄÜ £¬ ÓÐ DVD »Ø·Å £¬ ÅäºÏ CDR ¿É¿Ì ×Ô¼º µÄ VCD ¡£ ¡£ ¡£ 
+     ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~   Èí »Ø·Å Ò² ²»²î Ñ½ 
+     ÖÁÓÚ VCD Ã´ £¿ Å¼ ¾õµÃ »¹ÊÇ ÓÃ WME7 ×ö³É wma À´µÃ ºÃ 
+ 
+ - - 
+ ÎÒÒª ·ÉÏè £¬ ÎÞÂÛ µØÓü »¹ÊÇ ÌìÌÃ .. !             Welcome   to   http : / /  [ 5mfennivel  [ 10m . isCool . net 
+   ________                                                                                           
+   ___     __   \ _____   _____________________   ____     __________ 
+   __     / _ /   / _     _   \ __     ___ / __     ___ / _     _   \ _     /   /   / __     ___ / 
+   _     ____ /   /     __ / _     /         _ ( __     )   /     __ / /   / _ /   /   _ ( __     )   
+   / _ /             \ ___ /   / _ /           / ____ /     \ ___ /   \ __ , _ /     / ____ /         ........     is   ready ! 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.9 . 0.137 ] 
+ ·¢ÐÅÈË :   Perseus   ( ·ÉÏè µÄ »ðÑæ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Mon   Oct   16   20 : 52 : 11   2000 )   ,   ×ªÐÅ 
+ 
+ 
+ 
+ ¡¾   ÔÚ   zyc   ( Ë®Éñ ¾ø¶ÔÁã¶È ~ ~ Ë®Áµ»¨ )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÖµµÃ ¡£ 
+ :   ÄÇ ½¨Òé ¶¼ ÓÃ Logitech µÄ £¬ ¼üÅÌ 200 ²»µ½ Ò»µã £¬ Ðýõõ 200 ¶àµã ¡£ 
+ 
+     nonono ,   Logitech µÄ µÍµµ ¼üÅÌ ÊµÔÚ Ò»°ã 
+ 
+     ACER   52M µÄ ÐÔÄÜ ºÜ ºÃ £¬ ÊÖ¸Ð ¼«¼Ñ ( Å¼ ¼ÒÀï µÄ ÊÇ 52M £¬ µ¥Î» ÊÇ Logitech ) 
+   
+     ÁíÍâ £¬ ²Î¼Ó ÐÇ¼Ê ´óÈü µÄ Ñ¡ÊÖ   80% ÒÔÉÏ ÓÃ µÄ ÊÇ   Acer   52M ,   ÆäÓà ÊÇ Logitech 
+ 
+ 
+ :   µ±È» Òª £¬ ÎÈ¶¨ÐÔ ºÜ ÖØÒª µÄ ¡£ 
+ :   ¼¤¹â´òÓ¡»ú HP ¾ø¶Ô ÊÇ ÀÏ´ó ¡£ 
+ 
+ 
+ - - 
+ ÎÒÒª ·ÉÏè £¬ ÎÞÂÛ µØÓü »¹ÊÇ ÌìÌÃ .. !             Welcome   to   http : / /  [ 5mfennivel  [ 10m . isCool . net 
+   ________                                                                                           
+   ___     __   \ _____   _____________________   ____     __________ 
+   __     / _ /   / _     _   \ __     ___ / __     ___ / _     _   \ _     /   /   / __     ___ / 
+   _     ____ /   /     __ / _     /         _ ( __     )   /     __ / /   / _ /   /   _ ( __     )   
+   / _ /             \ ___ /   / _ /           / ____ /     \ ___ /   \ __ , _ /     / ____ /         ........     is   ready ! 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.9 . 0.137 ] 
+ ·¢ÐÅÈË :   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   07 : 37 : 44   2000 )   ,   ×ªÐÅ 
+ 
+ PII350 + 64M ÒªËã Á½Ìì : ) 
+ ±¾À´ ÏëÅä Ë« CPU µÄ £¬ ÌýËµ ºÃ¶à Èí¼þ ²» Ö§³Ö Ë« CPU £¬ Ö»ºÃ ×÷°Õ ¡£ 
+ °¦ £¬ ÓÎÏ· ÍæµÃ ºÜ ·è µÄ Ê±ºò Ã»ÓÐ ºÃ »úÆ÷ £¬ »úÆ÷ ºÃ ÁË ²»Ïë ÍæÓÎÏ· ÁË : ( 
+ ¡¾   ÔÚ   frankzhou   ( ÓÀ²» ÑÔ ÀÏ )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÕæÊÇ ¸ö »ûÐÎ ÅäÖÃ 
+ :   ·´Õæ ²» ÍæÓÎÏ· , ÓÐ ±ØÒª Âò PIII800 Âï 
+ 
+ 
+ - - 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.16 . 12.208 ] 
+ ·¢ÐÅÈË :   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   07 : 38 : 06   2000 )   ,   ×ªÐÅ 
+ 
+ ÄÇÓÃ ÄÇ¸ö ÅÆ×Ó µÄ ºÃ £¿ 
+ ¡¾   ÔÚ   syyes   ( Ð¡ ÏÌÏÌ )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   µçÔ´ £¬ »úÏä Ó¦¸Ã ÔÙ ºÃµã 
+ 
+ 
+ - - 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.16 . 12.208 ] 
+ ·¢ÐÅÈË :   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   07 : 51 : 35   2000 )   ,   ×ªÐÅ 
+ 
+ ¡¾   ÔÚ   mikecat   ( »¢Æ¤ Ã¨ )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   Èç¹û ÊÇ ÎÒ £¬ Äþ¿É ²»Âò TNT2 Ò² Òª 256MECC ¡£ Èç¹û Äã ÕæµÄ ²» ´òËã Åä Ò»Ì¨ ÓÎÏ·»ú µÄ»° ¡£ 
+ :   ÎÒ ÈÏÎª TNT2 ´¿Êô ¼¦Àß ¡£ ²»Èç ATI   All   IN   WONDER £¬ ºóÕß ´ø ÊÓÆµ ±à¼­ 
+ :   ¹¦ÄÜ £¬ ÓÐ DVD »Ø·Å £¬ ÅäºÏ CDR ¿É¿Ì ×Ô¼º µÄ VCD ¡£ ¡£ ¡£ 
+ ATI   All   IN   WONDER Òª 1580 £¬ Ì« ÉÝ³Þ ÁË : ) 
+ Èç¹û Âò ÁË HY   256MECC £¬ ´Ó ÄÄÊ¡ ÏÂ 1000 ¿é À´ £¿ ½µµÍ CPU ,   Ó²ÅÌ or ÏÔÊ¾Æ÷ µÄ ÅäÖÃ £¿ 
+ 
+ - - 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.16 . 12.208 ] 
+ ·¢ÐÅÈË :   relive   ( »ðÄñ ~ ~ ·ÇÎà ²»ÆÜ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   08 : 03 : 48   2000 )   ,   ×ªÐÅ 
+ 
+ ¿ÆÑ§¼ÆËã Èç¹û Ã»ÓÐ ECC £¬ Ëã¸ö ¼¸Ìì¼¸Ò¹ £¬ Í»È» ÄÚ´æ ³ö´í ÁË £¬ ¾Í ºÙºÙ ÁË 
+ 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ATI   All   IN   WONDER Òª 1580 £¬ Ì« ÉÝ³Þ ÁË : ) 
+ :   Èç¹û Âò ÁË HY   256MECC £¬ ´Ó ÄÄÊ¡ ÏÂ 1000 ¿é À´ £¿ ½µµÍ CPU ,   Ó²ÅÌ or ÏÔÊ¾Æ÷ µÄ ÅäÖÃ £¿ 
+ 
+ 
+ - - 
+ Äþ¿É Ö¦Í· ±§Ïã ËÀ £¬ ºÎÔø ´µÂä ±±·ç ÖÐ £¿ 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.24 . 14.186 ] 
+ ·¢ÐÅÈË :   binbinwolf   ( ±ò±ò ÀÇ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   09 : 28 : 12   2000 )   ,   ×ªÐÅ 
+ 
+ Ó²ÅÌ ÓÃ ibm µÄ °É 
+ ÏÔ¿¨ ¿ÉÒÔ ÓÃ ati µÄ 8m £¬ tnt2 Èç¹û ²» ÍæÓÎÏ· Ã»ÓÐ Ê²Ã´ ÓÃ´¦ 
+ ÏÔÊ¾Æ÷ »»¸ö samsung750s ¿ÉÒÔ ±ãÒË ½ü 500 
+ ÄÇÃ´ ²î µÄ ÒôÏì ¾Í ²»ÓÃ ´ò ½ø µ¥×Ó ÁË £¬ ËÍ µÄ ¶¼ Î´±Ø ±È Ëü ²î 
+ µçÔ´ ÓÃ µÄ ºÃ Ò»Ð© ÊÇ Ö»µÃ µÄ 
+ 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÀÏ°å Òª ¸ø ÎÒ Âò Ì¨ »úÆ÷ £¬ Ö÷Òª ÓÃÓÚ ¿ÆÑ§¼ÆËã ( ÊýÖµ Ä£Äâ £¬ ½âÆ« Î¢·Ö·½³Ì ×é ) ¡£ 
+ :   ¼Ó Ò»Ì¨ ¼¤´ò £¬ 15 , 000 Ôª ×óÓÒ ¡£ 
+ :   ÕÒ ÁË ÕÅ»ªº£ µÄ ±¨¼Ûµ¥ £¬ Ï¹Åä ÁË Ò»ÏÂ £¬ Çë ¸÷Î» ´óÏº ¸ø ÄÃ ¸ö Ö÷Òâ ¡£ 
+ :   Åä¼þ           ÐÍºÅ                               ±¨¼Û     ËµÃ÷ 
+ :   CPU           PIII800 ºÐ                       2340     PIII850 Òª 3100 £¬ ¹ó 
+ :   ÄÚ´æ         Kingmax   128M * 2             2040     Ïë Âò ÈýÐÇ   256M   ECC £¬ Òª 3100 £¬ ÖµµÃ Âð £¿ 
+ :   Ó²ÅÌ         ½ð ×ê ËÄ   40G                     1970     IBM ²£Á§ 40G ²» ÖªµÀ Òª ¶àÉÙ £¿ 
+ :   ¹âÇý         ´ó°×öè   44 ¡Á                     440     ¸Ö »úÐ¾ ºÃ Âð £¿ 
+ :   Ö÷°å         Intel   815E ( º¬ Éù¿¨ )     1250     ¿´µ½ Ç°Ãæ µÄ ¡° Ó²¼þÐÐÇé ¡± Òª 1350 £¬ why ? 
+ :   ÏÔ¿¨         Ð¡Ó°°Ô TNT2   32M               620     »ù±¾ ²» ÍæÓÎÏ· 
+ :   ÏÔÊ¾Æ÷     Acer   78C                         2350     ¸ú Philips   107G ±È ÈçºÎ £¿ 
+ :   ÈíÇý         Sony                                   113 
+ :   ¼üÅÌ         Acer   52M ·ÀË®                   120     ¼üÅÌ ¡¢ Êó±ê ÓÃ ºÃµã µÄ 
+ :   Êó±ê         ÂÞ¼¼ Ììõõ ( Èý¼ü )               135 
+ :   Íø¿¨         D - Link µ¥                             85     Òª ²»Òª 100M µÄ £¿ 
+ :   Modern     ½ð Íø°Ô 56K ÄÚÖÃ                 115     µÈ À­ ÁË µç»° ºó ÓÃ £¬ ÍâÖÃ ¾Í Ã» ±ØÒª ÁË 
+ :   Hub           D - Link   8 ¿Ú                       345     Áô´ý ÒÔºó ÔÙ ½øÀ´ ÑÐ¾¿Éú ÓÃ £¬ 4 ¿Ú ¶àÉÙ Ç® £¿ 
+ :   ÒôÏä         µ¼º½ Õß Ä¾ÖÊ                         88     ºÇºÇ £¬ ±¾ÈË ÀÖÃ¤ £¬ ×÷ ±³¾°ÔëÉù ÓÃ µÄ 
+ :   ¶ú»ú                                                     50 
+ :   »úÏä         ±£Àû µÃ 7237                       380     Òª ±ØÒª ÂòºÃ µÄ µçÔ´ Âð £¿ 
+ :   ÍøÏß         150m                                   300     Hub - Hub ¾ÍÒª 100m 
+ :   ´òÓ¡»ú     HP   6Lpro                         3150     Õâ¸ö ÀÏ°å ÓÃ µÄ £¬ Âò Canon ¸ü ±ãÒË °É £¿ 
+ :   total       - - - - - - - - - - - - - - - - - - - 15900     16 , 000 ÄÚ ÀÏ°å ¹À¼Æ ²»»á ·´¶Ô 
+ 
+ 
+ - - 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.24 . 236.2 ] 
+ ·¢ÐÅÈË :   blueline   ( ÐÄÖ¹ ¼´°¶ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   11 : 06 : 48   2000 )   ,   ×ªÐÅ 
+ 
+ 
+ µ±È» Ö»ÓÐ ÄÇÐ© ÍâÉè ÁË 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ATI   All   IN   WONDER Òª 1580 £¬ Ì« ÉÝ³Þ ÁË : ) 
+ :   Èç¹û Âò ÁË HY   256MECC £¬ ´Ó ÄÄÊ¡ ÏÂ 1000 ¿é À´ £¿ ½µµÍ CPU ,   Ó²ÅÌ or ÏÔÊ¾Æ÷ µÄ ÅäÖÃ £¿ 
+ 
+ 
+ - - 
+ Ìì¿Õ Ã»ÓÐ ³á°ò µÄ ºÛ¼£ £¬ µ« Äñ¶ù ÒÑ ·É¹ý ¡£ 
+                                             ¡ª ¡ª Ì©¸ê¶û 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   61.129 . 24.232 ] 
+ ·¢ÐÅÈË :   ceasar   ( optima ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   11 : 26 : 27   2000 )   ,   ×ªÐÅ 
+ 
+ Ö»ÓÐ ÊÀ¼Í Ö®ÐÇ ±È½Ï ºÃ Ò»µã 
+ 299 »ò 399 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÄÇÓÃ ÄÇ¸ö ÅÆ×Ó µÄ ºÃ £¿ 
+ 
+ 
+ - - 
+   °®¾Æ ÎÞÁ¿ ,   °®É« ÎÞµ¨ ,   °®²Æ ÎÞ Â· ,   °®Æø ÎÞÓÂ 
+                             ´ËÖ®Î½   ´óÕÉ·ò           
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.39 . 0.139 ] 
+ ·¢ÐÅÈË :   Moomin   ( Î÷ÃÅ ´µÑ© ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   15 : 43 : 02   2000 )   ,   ×ªÐÅ 
+ 
+ ÓÃ ÃÀ¸ñ °É £¡ 
+ ¸Â ¶à µÄ money ! 
+ 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÀÏ°å Òª ¸ø ÎÒ Âò Ì¨ »úÆ÷ £¬ Ö÷Òª ÓÃÓÚ ¿ÆÑ§¼ÆËã ( ÊýÖµ Ä£Äâ £¬ ½âÆ« Î¢·Ö·½³Ì ×é ) ¡£ 
+ :   ¼Ó Ò»Ì¨ ¼¤´ò £¬ 15 , 000 Ôª ×óÓÒ ¡£ 
+ :   ÕÒ ÁË ÕÅ»ªº£ µÄ ±¨¼Ûµ¥ £¬ Ï¹Åä ÁË Ò»ÏÂ £¬ Çë ¸÷Î» ´óÏº ¸ø ÄÃ ¸ö Ö÷Òâ ¡£ 
+ :   Åä¼þ           ÐÍºÅ                               ±¨¼Û     ËµÃ÷ 
+ :   CPU           PIII800 ºÐ                       2340     PIII850 Òª 3100 £¬ ¹ó 
+ :   ÄÚ´æ         Kingmax   128M * 2             2040     Ïë Âò ÈýÐÇ   256M   ECC £¬ Òª 3100 £¬ ÖµµÃ Âð £¿ 
+ :   Ó²ÅÌ         ½ð ×ê ËÄ   40G                     1970     IBM ²£Á§ 40G ²» ÖªµÀ Òª ¶àÉÙ £¿ 
+ :   ¹âÇý         ´ó°×öè   44 ¡Á                     440     ¸Ö »úÐ¾ ºÃ Âð £¿ 
+ :   Ö÷°å         Intel   815E ( º¬ Éù¿¨ )     1250     ¿´µ½ Ç°Ãæ µÄ ¡° Ó²¼þÐÐÇé ¡± Òª 1350 £¬ why ? 
+ :   ÏÔ¿¨         Ð¡Ó°°Ô TNT2   32M               620     »ù±¾ ²» ÍæÓÎÏ· 
+ :   ÏÔÊ¾Æ÷     Acer   78C                         2350     ¸ú Philips   107G ±È ÈçºÎ £¿ 
+ :   ÈíÇý         Sony                                   113 
+ :   ¼üÅÌ         Acer   52M ·ÀË®                   120     ¼üÅÌ ¡¢ Êó±ê ÓÃ ºÃµã µÄ 
+ :   Êó±ê         ÂÞ¼¼ Ììõõ ( Èý¼ü )               135 
+ :   Íø¿¨         D - Link µ¥                             85     Òª ²»Òª 100M µÄ £¿ 
+ :   Modern     ½ð Íø°Ô 56K ÄÚÖÃ                 115     µÈ À­ ÁË µç»° ºó ÓÃ £¬ ÍâÖÃ ¾Í Ã» ±ØÒª ÁË 
+ :   Hub           D - Link   8 ¿Ú                       345     Áô´ý ÒÔºó ÔÙ ½øÀ´ ÑÐ¾¿Éú ÓÃ £¬ 4 ¿Ú ¶àÉÙ Ç® £¿ 
+ :   ÒôÏä         µ¼º½ Õß Ä¾ÖÊ                         88     ºÇºÇ £¬ ±¾ÈË ÀÖÃ¤ £¬ ×÷ ±³¾°ÔëÉù ÓÃ µÄ 
+ :   ¶ú»ú                                                     50 
+ :   »úÏä         ±£Àû µÃ 7237                       380     Òª ±ØÒª ÂòºÃ µÄ µçÔ´ Âð £¿ 
+ :   ÍøÏß         150m                                   300     Hub - Hub ¾ÍÒª 100m 
+ :   ´òÓ¡»ú     HP   6Lpro                         3150     Õâ¸ö ÀÏ°å ÓÃ µÄ £¬ Âò Canon ¸ü ±ãÒË °É £¿ 
+ :   total       - - - - - - - - - - - - - - - - - - - 15900     16 , 000 ÄÚ ÀÏ°å ¹À¼Æ ²»»á ·´¶Ô 
+ 
+ 
+ - - 
+                                                               * * * * * * * * * * * * * * * * * * * 
+                                                               * Ôø¾­²×º£ ÄÑÎª Ë® ,     * 
+                                                               *     ³ýÈ´ Î×É½ ²»ÊÇ ÔÆ ! * 
+                                                               * * * * * * * * * * * * * * * * * * * 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.51 . 188.206 ] 
+ ·¢ÐÅÈË :   Moomin   ( Î÷ÃÅ ´µÑ© ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   15 : 44 : 51   2000 )   ,   ×ªÐÅ 
+ 
+ Ñ¶ ¼Î ºÍ ¸ûÉý µÄ ¶¼ ¿ÉÒÔ £¡ 
+ 
+ ¡¾   ÔÚ   lijiny   ( Kingdog )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ½¨Òé »¹ÊÇ ²»Òª ÓÃ Ð¡ Ó¡°Í µÄ °É , 
+ :   unika   ºÍ   paradise µÄ ¹ÙË¾ Ã»ÍêÃ»ÁË . 
+ 
+ 
+ - - 
+                                                               * * * * * * * * * * * * * * * * * * * 
+                                                               * Ôø¾­²×º£ ÄÑÎª Ë® ,     * 
+                                                               *     ³ýÈ´ Î×É½ ²»ÊÇ ÔÆ ! * 
+                                                               * * * * * * * * * * * * * * * * * * * 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.51 . 188.206 ] 
+ ·¢ÐÅÈË :   Moomin   ( Î÷ÃÅ ´µÑ© ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   15 : 49 : 00   2000 )   ,   ×ªÐÅ 
+ 
+ ÊÀ¼Í Ö®ÐÇ £¡ 
+ 
+ ¡¾   ÔÚ   barium   ( ÈýÇ§ ÄçË® È¡ Ò»Æ° )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÄÇÓÃ ÄÇ¸ö ÅÆ×Ó µÄ ºÃ £¿ 
+ 
+ 
+ - - 
+                                                               * * * * * * * * * * * * * * * * * * * 
+                                                               * Ôø¾­²×º£ ÄÑÎª Ë® ,     * 
+                                                               *     ³ýÈ´ Î×É½ ²»ÊÇ ÔÆ ! * 
+                                                               * * * * * * * * * * * * * * * * * * * 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   10.51 . 188.206 ] 
+ ·¢ÐÅÈË :   blueline   ( ÐÄÖ¹ ¼´°¶ ) ,   ÐÅ Çø :   Hardware 
+ ±ê     Ìâ :   Re :   15K »úÆ÷ µÄ ÅäÖÃ 
+ ·¢ÐÅÕ¾ :   ÈÕÔÂ ¹â»ª Õ¾   ( Tue   Oct   17   16 : 11 : 52   2000 )   ,   ×ªÐÅ 
+ 
+ Äã ¸ã´í ÁË °É £¬ ¸ù¾Ý Ëû µÄ ÒªÇó £¬ Õâµã Ç® ÊµÔÚ ÊÇ ²» ¶à ¡£   
+ ºÏÀí µÄ Ó¦¸Ã ÔÚ 20K ×óÓÒ °É ¡£ 
+ 
+ ¡¾   ÔÚ   Moomin   ( Î÷ÃÅ ´µÑ© )   µÄ ´ó×÷ ÖÐ Ìáµ½ :   ¡¿ 
+ :   ÓÃ ÃÀ¸ñ °É £¡ 
+ :   ¸Â ¶à µÄ money ! 
+ 
+ 
+ - - 
+ Ìì¿Õ Ã»ÓÐ ³á°ò µÄ ºÛ¼£ £¬ µ« Äñ¶ù ÒÑ ·É¹ý ¡£ 
+                                             ¡ª ¡ª Ì©¸ê¶û 
+ 
+ ¡ù   À´Ô´ : ¡¤ ÈÕÔÂ ¹â»ª Õ¾   bbs . fudan . edu . cn ¡¤ [ FROM :   202.118 . 5.134 ] 
+ 
+   
+ 
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+ [ ·µ»Ø ÉÏ Ò»Ò³ ]   [ ±¾ ÌÖÂÛÇø ]
